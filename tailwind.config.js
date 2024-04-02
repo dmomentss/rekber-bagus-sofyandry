@@ -2,6 +2,7 @@
 module.exports = {
   content: ['./src/**/*.{html,js}',
     './node_modules/preline/dist/*.js',
+    './index.html',
   ],
   theme: {
     extend: {},
